@@ -5,9 +5,9 @@ This is a port for ZeroRanger to Nintendo Switch. It was made around 2021, and I
 Recently I have begun to feel some shame for creating commercial game ports of indie games. I don't like the possibility that someone didn't buy one of the games I ported because they got it for free on Switch. 
 Releasing it here is actually a step to correct that.
 
-the last update I made to the port was Fix 10. I am very proud of it technically with the optimizations it does and how well it plays. But on every ROM site, the most updated version I ever saw was Fix 4. Those versions have a number of critical bugfixes missing (if I recall correctly, one near a very important moment at the end of the game!)
+the last update I made to the port was Fix 9. I am very proud of it technically with the optimizations it does and how well it plays. But on every ROM site, the most updated version I ever saw was Fix 4. Those versions have a number of critical bugfixes missing (if I recall correctly, one near a very important moment at the end of the game!)
 
-So Fix 10 is going to be distributed here. It is encrypted in such a way that you need ZeroRanger's data.win file to decrypt it, like with Pizza Tower.
+So Fix 9 is going to be distributed here. It is encrypted in such a way that you need ZeroRanger's data.win file to decrypt it, like with Pizza Tower.
 So to anyone who wants the port and doesn't have the game:
 - Getting it off ROM sites will get you a terrible experience
 - If you buy the game you can get the version that actually works
